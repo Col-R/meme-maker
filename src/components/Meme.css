@@ -21,3 +21,8 @@
     border: none;
     cursor: pointer;
 }
+
+.meme__image {
+    max-width: 450px;
+    align-content: center
+}
